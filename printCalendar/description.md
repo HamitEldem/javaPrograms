@@ -8,4 +8,5 @@ Create a visual representation of the January calendars for the years 2021, 2022
 
 
 //Problem description and problem itself from is from one of my classes Lab Guide 2 Additional Question 1
+<br>
 //Problem description has been rewrited and paraphrased
