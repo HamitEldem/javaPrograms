@@ -6,3 +6,7 @@ Create a Java program that displays two charts:
 The program should include the following methods: <br>
 - `convertToCelsius`: This method takes a Fahrenheit temperature as a parameter and returns its equivalent in Celsius. <br>
 - `convertToFahrenheit`: This method takes a Celsius temperature as a parameter and returns its equivalent in Fahrenheit. <br>
+
+
+//the question itself is from Lab Guide 2 Additional Question 2
+//description of the question has been paraphrased
