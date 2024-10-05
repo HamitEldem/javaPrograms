@@ -7,6 +7,8 @@ The program should include the following methods: <br>
 - `convertToCelsius`: This method takes a Fahrenheit temperature as a parameter and returns its equivalent in Celsius. <br>
 - `convertToFahrenheit`: This method takes a Celsius temperature as a parameter and returns its equivalent in Fahrenheit. <br>
 
+<br><br><hr>
 
 //the question itself is from Lab Guide 2 Additional Question 2
+<br>
 //description of the question has been paraphrased
